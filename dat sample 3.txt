@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Cobet Standoff 2 is a popular first-person shooter game that has taken the gaming world by storm. Developed by Axlebolt, the game has gained a massive following since its release in 2018. ","photo":"https://iili.io/HSh7khb.jpg"},
+  {"title":"tips pack 2","desc":"The game features various game modes, including deathmatch, defuse the bomb, and gun game, which have made it a favorite among gamers of all ages.","photo":"https://iili.io/HSh7h2S.jpg"},
+  {"title":"advice mod 3","desc":"The objective of the game is simple; players are divided into two teams, the terrorists and the counter-terrorists. The terrorists are tasked with planting a bomb in one of two locations, ","photo":"https://iili.io/HSh7W42.jpg"},
+  {"title":"how to use this app 4","desc":"while the counter-terrorists must prevent the bomb from being planted or defuse it if it has already been planted.","photo":"https://iili.io/HSh7jY7.jpg"},
+  {"title":"advance pack 5","desc":"Cobet Standoff 2 is a fast-paced game that requires strategy, quick reflexes, and excellent communication skills. The game has an extensive collection of weapons, including pistols, ","photo":"https://iili.io/HSh7wv9.jpg"},
+  {"title":"helper mod 6","desc":"Cobet Standoff 2 is a fast-paced game that requires strategy, quick reflexes, and excellent communication skills. The game has an extensive collection of weapons, including pistols, ","photo":"https://iili.io/HSh7Npe.jpg"},
+  {"title":"tips pack 7","desc":"One of the reasons why Cobet Standoff 2 has become so popular is its competitive nature. The game has a robust ranking system that allows players to progress through the ranks as they win matches.","photo":"https://iili.io/HSh7khb.jpg"},
+  {"title":"advice mod 8","desc":"The higher the rank, the more skilled the players they will face, making the game more challenging and exciting.","photo":"https://iili.io/HSh7eTu.jpg"}
    ]
  
 }
